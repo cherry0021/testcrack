@@ -1,0 +1,11 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+68:4A:AE:EA:F3:E4, 2023-06-16 21:31:50, 2023-06-16 21:41:54,  1, 270, WPA2, CCMP, PSK, -86,     2178,      277, 192.168.  1. 29,  17, PLDTHOMEFIBReCZw5, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+E2:63:2E:0C:5E:59, 2023-06-16 21:31:51, 2023-06-16 21:41:53, -90,      187, 68:4A:AE:EA:F3:E4,
+FC:1D:2A:E7:16:37, 2023-06-16 21:31:51, 2023-06-16 21:41:54, -87,     2354, 68:4A:AE:EA:F3:E4,
+B0:B5:C3:00:C4:6D, 2023-06-16 21:31:51, 2023-06-16 21:41:53, -89,      177, 68:4A:AE:EA:F3:E4,
+B4:A5:AC:9A:47:4F, 2023-06-16 21:31:51, 2023-06-16 21:41:51, -88,      276, 68:4A:AE:EA:F3:E4,
+12:13:C9:67:6A:69, 2023-06-16 21:31:51, 2023-06-16 21:41:53, -87,      117, 68:4A:AE:EA:F3:E4,
+
